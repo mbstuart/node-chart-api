@@ -1,2 +1,2 @@
 # node-chart-api
-An api for retrieving node charts
+Using Chart JS, an api for creating SVG charts based on JSON data.
